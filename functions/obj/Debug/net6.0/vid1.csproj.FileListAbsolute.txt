@@ -1,0 +1,16 @@
+C:\Users\User\Desktop\lection3\functions\bin\Debug\net6.0\vid1.exe
+C:\Users\User\Desktop\lection3\functions\bin\Debug\net6.0\vid1.deps.json
+C:\Users\User\Desktop\lection3\functions\bin\Debug\net6.0\vid1.runtimeconfig.json
+C:\Users\User\Desktop\lection3\functions\bin\Debug\net6.0\vid1.dll
+C:\Users\User\Desktop\lection3\functions\bin\Debug\net6.0\ref\vid1.dll
+C:\Users\User\Desktop\lection3\functions\bin\Debug\net6.0\vid1.pdb
+C:\Users\User\Desktop\lection3\functions\obj\Debug\net6.0\vid1.GlobalUsings.g.cs
+C:\Users\User\Desktop\lection3\functions\obj\Debug\net6.0\vid1.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\lection3\functions\obj\Debug\net6.0\vid1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\lection3\functions\obj\Debug\net6.0\vid1.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\lection3\functions\obj\Debug\net6.0\vid1.AssemblyInfo.cs
+C:\Users\User\Desktop\lection3\functions\obj\Debug\net6.0\vid1.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\lection3\functions\obj\Debug\net6.0\vid1.dll
+C:\Users\User\Desktop\lection3\functions\obj\Debug\net6.0\ref\vid1.dll
+C:\Users\User\Desktop\lection3\functions\obj\Debug\net6.0\vid1.pdb
+C:\Users\User\Desktop\lection3\functions\obj\Debug\net6.0\vid1.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+C:\Users\User\Desktop\lection3\uporyadochivanie\bin\Debug\net6.0\uporyadochivanie.exe
+C:\Users\User\Desktop\lection3\uporyadochivanie\bin\Debug\net6.0\uporyadochivanie.deps.json
+C:\Users\User\Desktop\lection3\uporyadochivanie\bin\Debug\net6.0\uporyadochivanie.runtimeconfig.json
+C:\Users\User\Desktop\lection3\uporyadochivanie\bin\Debug\net6.0\uporyadochivanie.dll
+C:\Users\User\Desktop\lection3\uporyadochivanie\bin\Debug\net6.0\ref\uporyadochivanie.dll
+C:\Users\User\Desktop\lection3\uporyadochivanie\bin\Debug\net6.0\uporyadochivanie.pdb
+C:\Users\User\Desktop\lection3\uporyadochivanie\obj\Debug\net6.0\uporyadochivanie.GlobalUsings.g.cs
+C:\Users\User\Desktop\lection3\uporyadochivanie\obj\Debug\net6.0\uporyadochivanie.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\lection3\uporyadochivanie\obj\Debug\net6.0\uporyadochivanie.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\lection3\uporyadochivanie\obj\Debug\net6.0\uporyadochivanie.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\lection3\uporyadochivanie\obj\Debug\net6.0\uporyadochivanie.AssemblyInfo.cs
+C:\Users\User\Desktop\lection3\uporyadochivanie\obj\Debug\net6.0\uporyadochivanie.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\lection3\uporyadochivanie\obj\Debug\net6.0\uporyadochivanie.dll
+C:\Users\User\Desktop\lection3\uporyadochivanie\obj\Debug\net6.0\ref\uporyadochivanie.dll
+C:\Users\User\Desktop\lection3\uporyadochivanie\obj\Debug\net6.0\uporyadochivanie.pdb
+C:\Users\User\Desktop\lection3\uporyadochivanie\obj\Debug\net6.0\uporyadochivanie.genruntimeconfig.cache
